@@ -1,5 +1,13 @@
-let x = 10;
-while (x <= 25) {
-  console.log("Printing out x = " + x);
-  x = x + 2;
+let claireSays = function (max) {
+  let herMessage = "";
+  for (let i = 0; i < max; i++) {
+    herMessage += "shut up";
+  }
+  return herMessage;
+};
+
+function helloClaire(callbackFunc) {
+  return "Oh, " + callbackFunc(3);
 }
+
+helloClaire(claireSays);
