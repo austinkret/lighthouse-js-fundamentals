@@ -1,0 +1,73 @@
+{
+  "folders": [
+    {
+      "path": "../lighthouse-js-fundamentals"
+    },
+    {
+      "path": "../javascripting"
+    },
+    {
+      "path": "../html-css-fundamentals"
+    },
+    {
+      "path": "../Katas"
+    },
+    {
+      "path": "../lighthouse-web-notes"
+    },
+    {
+      "path": "../assessment-exam-student"
+    },
+    {
+      "path": "../w1/we/chalk-test"
+    },
+    {
+      "path": "../mocha-chai"
+    },
+    {
+      "path": "../w1/we/web-js-palindromes"
+    },
+    {
+      "path": "../w1/we/car"
+    },
+    {
+      "path": "../w1/nameFormatter"
+    },
+    {
+      "path": "../w2"
+    },
+    {
+      "path": "../w1"
+    },
+    {
+      "path": "../w2-test"
+    },
+    {
+      "path": "../w3"
+    },
+    {
+      "path": "../w3-test"
+    },
+    {
+      "path": "../w4"
+    },
+    {
+      "path": "../w4-test"
+    },
+    {
+      "path": "../w5"
+    },
+    {
+      "path": "../../Exercism"
+    },
+    {
+      "path": "../w5-test"
+    },
+    {
+      "path": "../w6"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "mocha-chai"
+  }
+}

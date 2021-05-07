@@ -4,8 +4,6 @@
 // if both - 'LoopyLighthouse'
 // print console.log
 
-let num = 100;
-
 for (let num = 100; num <= 200; num++) {
   if (num % 3 === 0 && num % 4 === 0) {
     console.log("LoopyLighthouse");
